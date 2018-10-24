@@ -84,7 +84,7 @@
 		
 		<div class="header-logo">
 			<a href="/">
-				<img src="/images/theme-icon.svg">
+				<img src="/images/author.jpg">
 			</a>
 		</div>
 		<div class="header-text">
@@ -134,6 +134,14 @@
 				<i class="far fa-times-circle" id="nav-more-menu-close" onclick="onClickNavMenuClose(event);" ontouchstart="onClickNavMenuClose(event);"></i>
 		
 		
+		<div class="nav-more-item">
+				<div class="nav-name">
+					<a class="nav-link" href="/categories/projects/">
+						<span>Projects</span>
+					</a>
+				</div>
+		</div>
+		
 	</div>
 	</div>
 </nav>
@@ -158,6 +166,8 @@
 	<input type="text" id="search-form">
 
 	<ul class="cat-list">
+		
+			<li><a href="/categories/projects/"><img src="/images/projects.svg" alt="projects" onerror="if(this.src != "/images/uncategorized.svg") this.src="/images/uncategorized.svg"" title="projects"></a></li>
 		
 	</ul>
 
@@ -194,7 +204,7 @@
 			"tags"
 		]
 	};
-	var s = '[{"title":"Hello World","date":"2018-10-24T06:46:30.837Z","content":"Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.\nQuick Start\nCreate a new post\n1$ hexo new My New Post\nMore info: Writing\nRun server\n1$ hexo server\nMore info: Server\nGenerate static files\n1$ hexo generate\nMore info: Generating\nDeploy to remote sites\n1$ hexo deploy\nMore info: Deployment\n","tags":[],"path":"2018/10/24/hello-world/","external_link":""}]';
+	var s = '[{"title":"Hello World","date":"2018-10-24T06:46:30.837Z","content":"Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.\nQuick Start\nCreate a new post\n1$ hexo new My New Post\nMore info: Writing\nRun server\n1$ hexo server\nMore info: Server\nGenerate static files\n1$ hexo generate\nMore info: Generating\nDeploy to remote sites\n1$ hexo deploy\nMore info: Deployment\n","tags":["notes"],"path":"2018/10/24/hello-world/","external_link":""}]';
 
 	s = s.replace(/\\n/g, "\\n")
                .replace(/\\'/g, "\\'")
@@ -235,7 +245,7 @@
 
 <div class="tagcloud-container">
 <div class="tag-cloud">
-	
+	<a href="/tags/notes/" style="font-size: 0.8em; color: #488baf">notes</a>
 </div>
 </div>
 
@@ -247,11 +257,21 @@
     <div class="footer-copyright">
         <div>
             <p> Copyright by <a href="">Yang Jie </a> @ 2018</p>
-            <p>Designed by: <i class="fas fa-paint-brush"></i> <a href="https://moober.cn">Moober</a> and <i class="fas fa-graduation-cap"></i> <a href="https://qutang.github.io">Qu Tang</a> &bull; Theme: <a href="https://qutang.github.io/cutie/">Cutie 2.1.1-Taurus</a> &bull; Powered by <a href="http://hexo.io">Hexo.</a></p>
+            <p>Designed by: <i class="fas fa-paint-brush"></i> <a href="https://moober.cn">Moober</a> and <i class="fas fa-graduation-cap"></i> <a href="https://qutang.github.io">Qu Tang</a> &bull; Theme: <a href="https://wxyangjie.github.io/">Cutie 2.1.1-Taurus</a> &bull; Powered by <a href="http://hexo.io">Hexo.</a></p>
         </div>
     </div>
     
     <div class="footer-social">
+        
+            
+                
+                    <div class="footer-social-item"><a href="https://github.com/wxyangjie" target="_blank"><i class="fab fa-github fa-2x" aria-hidden="true"></i></a></div>
+                
+            
+                
+                    <div class="footer-social-item"><a href="https://www.instagram.com/blcu14yj/" target="_blank"><i class="fab fa-instagram fa-2x" aria-hidden="true"></i></a></div>
+                
+            
         
     </div>
 </footer>
@@ -294,6 +314,14 @@
 		<div class="nav-more-menu">
 				<i class="far fa-times-circle" id="nav-more-menu-close" onclick="onClickNavMenuClose(event);" ontouchstart="onClickNavMenuClose(event);"></i>
 		
+		
+		<div class="nav-more-item">
+				<div class="nav-name">
+					<a class="nav-link" href="/categories/projects/">
+						<span>Projects</span>
+					</a>
+				</div>
+		</div>
 		
 	</div>
 	</div>

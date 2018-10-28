@@ -10,7 +10,7 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
   
-      <title>Search - Jacob</title>
+      <title>Hello World - Jacob</title>
   
 
   
@@ -151,6 +151,20 @@
 		
 	
 	
+	<div class="nav-item" id="nav-item-toc">
+		
+
+
+<div class="toc-container">
+<i class="far fa-times-circle" id="toc-close" onclick="closeTOC(event);" ontouchstart="closeTOC(event);"></i>
+<ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#undefined"><span class="toc-number">1.</span> <span class="toc-text">Quick Start</span></a></li></ol>
+</div>
+<div class="toc-button" onclick="toggleTOC(event);" ontouchstart="toggleTOC(event);">
+    <img src="/images/icons/blue-shadow/toc.svg" alt="">
+</div>
+
+	</div>
+	
 	<div class="nav-item" id="nav-item-archive">
 		
 				<div class="nav-icon">
@@ -162,7 +176,7 @@
 	</div>
 	<div class="nav-item" id="nav-item-search">
 		
-		<div class="nav-icon active_dot">
+		<div class="nav-icon">
 		
 			<a href="/search/" title="Search">
 			<img src="/images/icons/blue-shadow/search.svg" alt="">
@@ -240,6 +254,8 @@
 
  
 
+  
+
 
 
 
@@ -251,95 +267,203 @@
         background-color: white;
     }
 </style>
-<div class="search-container">
-	<input type="text" id="search-form">
 
-	<ul class="cat-list">
-		
-			<li><a href="/categories/projects/"><img src="/images/projects.svg" alt="projects" onerror="if(this.src != "/images/uncategorized.svg") this.src="/images/uncategorized.svg"" title="projects"></a></li>
-		
-			<li><a href="/categories/notes/"><img src="/images/notes.svg" alt="notes" onerror="if(this.src != "/images/uncategorized.svg") this.src="/images/uncategorized.svg"" title="notes"></a></li>
-		
-	</ul>
 
-	<div class="archive-cards">
-			<div class="Card-archive" style="display:none">
-				<div class="Card-body">
-					<h3 class="Card-title">
-						<a>
-						</a>
-					</h3>
-					<div class="Card-meta">
-						<ul>
-							<li><i class="fa fa-calendar"></i> <span class="Card-date"></span></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
+
+
+
+
+
+
+    
+        
+            
+            
+        
+    
+
+
+
+
+
+
+    
+    
+        
+    
+
+    
+        
+    
+
+
+
+
+
+
+
+
+
+<article class="article" id="/2018/10/28/test2/" data-name="Hello World" data-version="">
+
+    <!-- Title -->
+    <div class="article-header">
+         
+         <div class="article-logo">
+            <a href="#" data-no-instant="">
+                <img src="/images/hello-world/image1.png" alt="" onerror="if(this.src != " images="" uncategorized.svg")="" this.src="/images/uncategorized.svg" "="">
+            </a>
+         </div>
+         
+         <h1 class="article-title">
+            <a href="/2018/10/28/test2/">
+                Hello World
+            </a>
+        </h1>
+        <!-- TODO: support nested categories,display them nicely -->
+        
+        <ul class="article-categories">
+            
+            
+                <li><a href="/categories/notes/" data-no-instant="">
+                    <img src="/images/notes.svg" alt="notes" onerror="if(this.src != " images="" uncategorized.svg")="" this.src="/images/uncategorized.svg" "="" title="notes">
+                </a></li>
+            
+        </ul>
+        
+    </div>
+    
+    <!-- Date and Author -->
+    <div class="article-meta">
+    <ul>
+            <li><i class="fa fa-calendar"></i> 2018-10-28</li>
+            
+            <li><i class="fa fa-user"></i> Yang Jie</li>
+            <li><i class="fas fa-copyright"></i>
+            
+                
+                
+            
+            
+                <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>
+            
+            </li>
+    </ul>
+    
+<div class="tags">
+	
+		
+			<label class="tag-1"><a href="/tags/test/">Test</a></label>
+		
+	
+	</div>
+
+    </div>
+    <div class="article-cards">
+        <!-- Author Card -->
+        <!---
+        <div class='Card-article Card-author'>
+            <div class='card-title'>
+                <h3></h3>
+            </div>
+            <div class='card-content'>
+                    <div class="author-meta">
+                            <div class='author-figure'>
+                                <img src="" alt="">
+                            </div>
+                            <div class='author-name'>
+                                Yang Jie
+                            </div>
+                        </div>
+                        <div class="author-ai">
+                            <div class='author-intro'>
+                                <!-- TODO: auto generating author description -->
+                                <!-- 
+                            </div>
+                            <div class="author-articles">
+                                <!-- TODO: auto generating author articles -->
+                                <!-- <ul>
+                                    <li>Article 1</li>
+                                    <li>Article 2</li>
+                                    <li>Article 3</li>
+                                    <li>Article 4</li>
+                                    <li>Article 5</li>
+                                    <li>Article 6</li>
+                                </ul>
+                            </div>
+                        </div>
+            </div>
+            
+        </div> -->
+
+        <!-- Visit Card -->
+        <!-- <div class="Card-article Card-visit"> -->
+            <!-- <div class="card-title">
+  <h3>Post Visit</h3>
+</div>
+<div class="card-chart">
+  <div id="chart-post-visit"></div>
+</div> -->
+        <!-- </div> -->
+        
+        <!-- Auto Excerpt Card -->
+        <!-- <div class="Card-article Card-excerpt">
+            <div class="card-title">
+  <h3>Quick Read</h3>
+</div>
+<div class="card-text">
+  <p id="text-post-summary">Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.
+Quick Start
+Create a new post
+1$ hexo new "My New Post"
+More info: Writing
+Run server
+1$ hexo...</p>
+</div>
+        </div> -->
+    </div>
+    
+    <!-- Gallery -->
+    <!-- TODO: add a slider to gallery -->
+    
+
+    <!-- Content -->
+    <!-- TODO: support table of content -->
+    <div class="article-toc" id="article-toc">
+    
+        
+
+
+<div class="toc-container">
+<i class="far fa-times-circle" id="toc-close" onclick="closeTOC(event);" ontouchstart="closeTOC(event);"></i>
+<ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#undefined"><span class="toc-number">1.</span> <span class="toc-text">Quick Start</span></a></li></ol>
+</div>
+<div class="toc-button" onclick="toggleTOC(event);" ontouchstart="toggleTOC(event);">
+    <img src="/images/icons/blue-shadow/toc.svg" alt="">
 </div>
 
-<script src="/libs/fuse.js/dist/fuse.min.js"></script>
-<script>
-	var options = {
-		shouldSort: true,
-		threshold: 0.4,
-		tokenize: true,
-		location: 0,
-		distance: 100,
-		maxPatternLength: 32,
-		minMatchCharLength: 2,
-		keys: [
-			"title",
-			"author",
-			"tags"
-		]
-	};
-	var s = '[{"title":"Hello World","date":"2018-10-24T06:46:30.837Z","content":"Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.\nQuick Start\nCreate a new post\n1$ hexo new My New Post\nMore info: Writing\nRun server\n1$ hexo server\nMore info: Server\nGenerate static files\n1$ hexo generate\nMore info: Generating\nDeploy to remote sites\n1$ hexo deploy\nMore info: Deployment\n","tags":["test"],"path":"2018/10/24/hello-world/","external_link":""},{"title":"Hello World","date":"2018-10-28T11:24:19.708Z","content":"Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.\nQuick Start\nCreate a new post\n1$ hexo new My New Post\nMore info: Writing\nRun server\n1$ hexo server\nMore info: Server\nGenerate static files\n1$ hexo generate\nMore info: Generating\nDeploy to remote sites\n1$ hexo deploy\nMore info: Deployment\n","tags":["test"],"path":"2018/10/28/test2/","external_link":""}]';
+    </div>
+    <div class="article-content">
+    <p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2>Quick Start</h2>
+<h3>Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3>Run server</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3>Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3>Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 
-	s = s.replace(/\\n/g, "\\n")
-               .replace(/\\'/g, "\\'")
-               .replace(/\\"/g, '\\"')
-               .replace(/\\&/g, "\\&")
-               .replace(/\\r/g, "\\r")
-               .replace(/\\t/g, "\\t")
-               .replace(/\\b/g, "\\b")
-               .replace(/\\f/g, "\\f")
-
-// remove non-printable and other non-valid JSON chars
-	s = s.replace(/[\u0000-\u0019]+/g,"");
-	var list = JSON.parse(s);
-	var fuse = new Fuse(list, options);
-	var el = document.getElementById('search-form');
-	var newBox = $('.Card-archive').first().clone();
-	el.oninput = function(event){
-		var searchText = el.value;
-		var result = fuse.search(searchText);
-		$('.archive-cards .Card-archive').remove();
-		for(var i in result){
-			var anotherBox = newBox.clone();
-			var dateStr = new Date(result[i].date);
-			anotherBox.css('display','flex');
-			var url = "";
-			if(result[i].external_link !== ""){
-				url = result[i].external_link;
-			}else{
-				url = '/' + result[i].path;
-			}
-
-			anotherBox.find('.Card-title a').text(result[i].title).attr('href', url);
-			anotherBox.find('.Card-date').text(dateStr.toDateString());
-			anotherBox.appendTo('.archive-cards');
-		}
-	}
-</script>
-
-<div class="tagcloud-container">
-<div class="tag-cloud">
-	<a href="/tags/test/" style="font-size: 0.8em; color: #488baf">test</a>
-</div>
-</div>
-
+    
+    </div>
+    
+        
+</article>
   </div>
 
   
@@ -395,6 +519,20 @@
 		
 	
 	
+	<div class="nav-item" id="nav-item-toc">
+		
+
+
+<div class="toc-container">
+<i class="far fa-times-circle" id="toc-close" onclick="closeTOC(event);" ontouchstart="closeTOC(event);"></i>
+<ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#undefined"><span class="toc-number">1.</span> <span class="toc-text">Quick Start</span></a></li></ol>
+</div>
+<div class="toc-button" onclick="toggleTOC(event);" ontouchstart="toggleTOC(event);">
+    <img src="/images/icons/blue-shadow/toc.svg" alt="">
+</div>
+
+	</div>
+	
 	<div class="nav-item" id="nav-item-archive">
 		
 				<div class="nav-icon">
@@ -406,7 +544,7 @@
 	</div>
 	<div class="nav-item" id="nav-item-search">
 		
-		<div class="nav-icon active_dot">
+		<div class="nav-icon">
 		
 			<a href="/search/" title="Search">
 			<img src="/images/icons/blue-shadow/search.svg" alt="">
@@ -515,6 +653,13 @@
 <script type="text/javascript">
 
   
+  // update cookie if this page is opened (directly)
+  loadjs(['/libs/jshashes/hashes.min.js', '/libs/js-cookie/src/js.cookie.js', '/js/post.v2.js'], 'post-version');
+  loadjs.ready('post-version', function(){
+    
+    new Postv2('hashit_6370b6c4e45ffdcfeda66d30c449965081ad4cb9aa9d346841dcd56b2421965f').update('hashit_6c47287f89fe38e1bd6065b79b2cf9a6b4698220384aca1be97ed18d29579fe5', function(){});
+  });
+  
 </script>
 
 
@@ -528,6 +673,16 @@
 initHeadroom();
 
 changeLayoutOnTouchScreen();
+
+// 
+// var post = new Post('', '');
+// post.getCommentCount(window.location.pathname, function(count){
+//     $('#article-comment-count').text(count);
+// });
+// post.addVisitRecord(window.location.pathname, userip);
+// post.getVisitCount(window.location.pathname, function(count){
+//     $('#article-visit-count').text(count);
+// });
 
 // 
 </script>

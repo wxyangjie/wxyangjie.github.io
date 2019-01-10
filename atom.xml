@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-09T12:28:07.246Z</updated>
+  <updated>2019-01-10T14:07:08.755Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,19 +17,21 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2018/10/28/acs/"/>
-    <id>http://yoursite.com/2018/10/28/acs/</id>
-    <published>2018-10-28T11:24:19.708Z</published>
-    <updated>2019-01-09T12:28:07.246Z</updated>
+    <title>A ubiquitous English vocabulary learning system</title>
+    <link href="http://yoursite.com/2019/01/10/A%20ubiquitous%20English%20vocabulary%20learning%20system/"/>
+    <id>http://yoursite.com/2019/01/10/A ubiquitous English vocabulary learning system/</id>
+    <published>2019-01-10T10:27:44.090Z</published>
+    <updated>2019-01-10T14:07:08.755Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2>Quick Start</h2><h3>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h2>A ubiquitous English vocabulary learning system: Evidence of active/passive attitudes vs. usefulness/ease-of-use</h2><blockquote><p>A ubiquitous English vocabulary learning system: Evidence of active/passive attitudes vs. usefulness/ease-of-use</p><p>作者: Huang, Yueh-Min; Huang, Yong-Ming; Huang, Shu-Hsien; 等.</p><p>COMPUTERS &amp; EDUCATION  卷: 58   期: 1   页: 273-282   出版年: JAN 2012</p></blockquote><h4>Abstract</h4><p>“In this study, we develop a ubiquitous English vocabulary learning (UEVL) system to assist students in experiencing a systematic vocabulary learning process in which ubiquitous technology is used to develop the system, and video clips are used as the material. Afterward, the technology acceptance model and partial least squares approach are used to explore students’ perspectives on the UEVL system. The results indicate that (1) both the system characteristics and the material characteristics of the UEVL system positively and significantly influence the perspectives of all students on the system; (2) the active students are interested in perceived usefulness; (3) the passive students are interested in perceived ease of use.”</p><table><thead><tr><th style="text-align:left">文中名词</th><th>翻译或解释</th></tr></thead><tbody><tr><td style="text-align:left">ubiquitous learning</td><td>泛在学习</td></tr><tr><td style="text-align:left">Technology Acceptance Model</td><td>技术接受模型，Fred D. Davis根据理性行为理论（Theory of Reasoned Action，简称TRA）在信息系统/计算机技术领域发展而来，用于解释和预测人们对信息技术的接受程度。技术接受模型主张,人对信息科技的使用受其行为意图的影响，用来探讨外部因素对使用者的内部信念（beliefs）、态度（attitudes）及意向（intentions）的影响，两者进而影响信息系统使用的情况（Davis, 1989）。该理论认为，当用户面对一个新的技术时，感知有用性和感知易用性是两个主要的决定因素。<a href="https://en.wikipedia.org/wiki/Technology_acceptance_model" target="_blank" rel="noopener">https://en.wikipedia.org/wiki/Technology_acceptance_model</a></td></tr><tr><td style="text-align:left">Partial least squares regression， PLS回归</td><td>偏最小二乘回归是一种统计学方法，与主成分回归有关系，但不是寻找响应和独立变量之间最小方差的超平面，而是通过投影预测变量和观测变量到一个新空间来寻找一个线性回归模型。</td></tr><tr><td style="text-align:left"></td><td></td></tr></tbody></table><h4>To Do List:</h4><ul><li>[ ] 学习&amp;掌握偏最小二乘回归</li></ul><h4>写作技巧借鉴：</h4>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;h2&gt;A ubiquitous English vocabulary learning system: Evidence of active/passive attitudes vs. usefulness/ease-of-use&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A 
       
     
     </summary>
@@ -37,7 +39,13 @@
       <category term="notes" scheme="http://yoursite.com/categories/notes/"/>
     
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+      <category term="阅读论文笔记" scheme="http://yoursite.com/tags/%E9%98%85%E8%AF%BB%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="COMPUTERS &amp; EDUCATION" scheme="http://yoursite.com/tags/COMPUTERS-EDUCATION/"/>
+    
+      <category term="技术接受模型" scheme="http://yoursite.com/tags/%E6%8A%80%E6%9C%AF%E6%8E%A5%E5%8F%97%E6%A8%A1%E5%9E%8B/"/>
+    
+      <category term="偏最小二乘回归" scheme="http://yoursite.com/tags/%E5%81%8F%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E5%9B%9E%E5%BD%92/"/>
     
   </entry>
   

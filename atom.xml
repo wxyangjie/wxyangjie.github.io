@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-10T14:07:08.755Z</updated>
+  <updated>2019-01-10T15:14:43.291Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,17 +21,16 @@
     <link href="http://yoursite.com/2019/01/10/A%20ubiquitous%20English%20vocabulary%20learning%20system/"/>
     <id>http://yoursite.com/2019/01/10/A ubiquitous English vocabulary learning system/</id>
     <published>2019-01-10T10:27:44.090Z</published>
-    <updated>2019-01-10T14:07:08.755Z</updated>
+    <updated>2019-01-10T15:14:43.291Z</updated>
     
-    <content type="html"><![CDATA[<h2>A ubiquitous English vocabulary learning system: Evidence of active/passive attitudes vs. usefulness/ease-of-use</h2><blockquote><p>A ubiquitous English vocabulary learning system: Evidence of active/passive attitudes vs. usefulness/ease-of-use</p><p>作者: Huang, Yueh-Min; Huang, Yong-Ming; Huang, Shu-Hsien; 等.</p><p>COMPUTERS &amp; EDUCATION  卷: 58   期: 1   页: 273-282   出版年: JAN 2012</p></blockquote><h4>Abstract</h4><p>“In this study, we develop a ubiquitous English vocabulary learning (UEVL) system to assist students in experiencing a systematic vocabulary learning process in which ubiquitous technology is used to develop the system, and video clips are used as the material. Afterward, the technology acceptance model and partial least squares approach are used to explore students’ perspectives on the UEVL system. The results indicate that (1) both the system characteristics and the material characteristics of the UEVL system positively and significantly influence the perspectives of all students on the system; (2) the active students are interested in perceived usefulness; (3) the passive students are interested in perceived ease of use.”</p><table><thead><tr><th style="text-align:left">文中名词</th><th>翻译或解释</th></tr></thead><tbody><tr><td style="text-align:left">ubiquitous learning</td><td>泛在学习</td></tr><tr><td style="text-align:left">Technology Acceptance Model</td><td>技术接受模型，Fred D. Davis根据理性行为理论（Theory of Reasoned Action，简称TRA）在信息系统/计算机技术领域发展而来，用于解释和预测人们对信息技术的接受程度。技术接受模型主张,人对信息科技的使用受其行为意图的影响，用来探讨外部因素对使用者的内部信念（beliefs）、态度（attitudes）及意向（intentions）的影响，两者进而影响信息系统使用的情况（Davis, 1989）。该理论认为，当用户面对一个新的技术时，感知有用性和感知易用性是两个主要的决定因素。<a href="https://en.wikipedia.org/wiki/Technology_acceptance_model" target="_blank" rel="noopener">https://en.wikipedia.org/wiki/Technology_acceptance_model</a></td></tr><tr><td style="text-align:left">Partial least squares regression， PLS回归</td><td>偏最小二乘回归是一种统计学方法，与主成分回归有关系，但不是寻找响应和独立变量之间最小方差的超平面，而是通过投影预测变量和观测变量到一个新空间来寻找一个线性回归模型。</td></tr><tr><td style="text-align:left"></td><td></td></tr></tbody></table><h4>To Do List:</h4><ul><li>[ ] 学习&amp;掌握偏最小二乘回归</li></ul><h4>写作技巧借鉴：</h4>]]></content>
+    <content type="html"><![CDATA[<h4>A ubiquitous English vocabulary learning system: Evidence of active/passive attitudes vs. usefulness/ease-of-use</h4><p>A ubiquitous English vocabulary learning system: Evidence of active/passive attitudes vs. usefulness/ease-of-use</p><p>作者: Huang, Yueh-Min; Huang, Yong-Ming; Huang, Shu-Hsien; 等.</p><p>COMPUTERS &amp; EDUCATION  卷: 58   期: 1   页: 273-282   出版年: JAN 2012</p><h3>内容整理</h3><h4>Abstract</h4><blockquote><p>“In this study, we develop a ubiquitous English vocabulary learning (UEVL) system to assist students in experiencing a systematic vocabulary learning process in which <strong>ubiquitous</strong> technology is used to develop the system, and video clips are used as the material. Afterward, the <strong>technology acceptance model</strong> and <strong>partial least squares approach</strong> are used to explore students’ perspectives on the UEVL system. &quot;</p></blockquote><h5>The results:</h5><blockquote><p>(1) both the system characteristics and the material characteristics of the UEVL system positively and significantly influence the perspectives of all students on the system;</p><p>(2) the active students are interested in perceived usefulness;</p><p>(3) the passive students are interested in perceived ease of use.</p></blockquote><table><thead><tr><th style="text-align:left">文中名词</th><th>翻译或解释</th></tr></thead><tbody><tr><td style="text-align:left">ubiquitous learning</td><td>泛在学习</td></tr><tr><td style="text-align:left">Technology Acceptance Model</td><td>技术接受模型，Fred D. Davis根据理性行为理论（Theory of Reasoned Action，简称TRA）在信息系统/计算机技术领域发展而来，用于解释和预测人们对信息技术的接受程度。技术接受模型主张,人对信息科技的使用受其行为意图的影响，用来探讨外部因素对使用者的内部信念（beliefs）、态度（attitudes）及意向（intentions）的影响，两者进而影响信息系统使用的情况（Davis, 1989）。该理论认为，当用户面对一个新的技术时，感知有用性和感知易用性是两个主要的决定因素。<a href="https://en.wikipedia.org/wiki/Technology_acceptance_model" target="_blank" rel="noopener">https://en.wikipedia.org/wiki/Technology_acceptance_model</a></td></tr><tr><td style="text-align:left">Partial least squares regression， PLS回归</td><td>偏最小二乘回归是一种统计学方法，与主成分回归有关系，但不是寻找响应和独立变量之间最小方差的超平面，而是通过投影预测变量和观测变量到一个新空间来寻找一个线性回归模型。</td></tr></tbody></table><h4>Introduction</h4><p>“Their results revealed that graphics are useful in assisting students to understand the definitions of new words.”</p><h3>To Do List:</h3><ul><li>[ ] 学习&amp;掌握偏最小二乘回归</li></ul><h3>写作技巧借鉴：</h3>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2&gt;A ubiquitous English vocabulary learning system: Evidence of active/passive attitudes vs. usefulness/ease-of-use&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;A 
+        &lt;h4&gt;A ubiquitous English vocabulary learning system: Evidence of active/passive attitudes vs. usefulness/ease-of-use&lt;/h4&gt;
+&lt;p&gt;A ubiquitous En
       
     
     </summary>
@@ -39,7 +38,7 @@
       <category term="notes" scheme="http://yoursite.com/categories/notes/"/>
     
     
-      <category term="阅读论文笔记" scheme="http://yoursite.com/tags/%E9%98%85%E8%AF%BB%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+      <category term="论文阅读笔记" scheme="http://yoursite.com/tags/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/"/>
     
       <category term="COMPUTERS &amp; EDUCATION" scheme="http://yoursite.com/tags/COMPUTERS-EDUCATION/"/>
     

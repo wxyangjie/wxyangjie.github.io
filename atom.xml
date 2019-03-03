@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-10T15:14:43.291Z</updated>
+  <updated>2019-01-13T15:52:35.494Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>智慧课堂数据挖掘分析与应用实证研究</title>
+    <link href="http://yoursite.com/2019/01/13/%E6%99%BA%E6%85%A7%E8%AF%BE%E5%A0%82%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%88%86%E6%9E%90%E4%B8%8E%E5%BA%94%E7%94%A8%E5%AE%9E%E8%AF%81%E7%A0%94%E7%A9%B6/"/>
+    <id>http://yoursite.com/2019/01/13/智慧课堂数据挖掘分析与应用实证研究/</id>
+    <published>2019-01-13T15:29:57.669Z</published>
+    <updated>2019-01-13T15:52:35.494Z</updated>
+    
+    <content type="html"><![CDATA[<h3>智慧课堂数据挖掘分析与应用实证研究</h3><blockquote><p>刘邦奇,李鑫.智慧课堂数据挖掘分析与应用实证研究[J].电化教育研究,2018,39(06):41-47.</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3&gt;智慧课堂数据挖掘分析与应用实证研究&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;刘邦奇,李鑫.智慧课堂数据挖掘分析与应用实证研究[J].电化教育研究,2018,39(06):41-47.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+      
+    
+    </summary>
+    
+      <category term="notes" scheme="http://yoursite.com/categories/notes/"/>
+    
+    
+      <category term="论文阅读笔记" scheme="http://yoursite.com/tags/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="COMPUTERS &amp; EDUCATION" scheme="http://yoursite.com/tags/COMPUTERS-EDUCATION/"/>
+    
+      <category term="技术接受模型" scheme="http://yoursite.com/tags/%E6%8A%80%E6%9C%AF%E6%8E%A5%E5%8F%97%E6%A8%A1%E5%9E%8B/"/>
+    
+      <category term="偏最小二乘回归" scheme="http://yoursite.com/tags/%E5%81%8F%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E5%9B%9E%E5%BD%92/"/>
+    
+  </entry>
   
   <entry>
     <title>A ubiquitous English vocabulary learning system</title>
@@ -53,9 +88,9 @@
     <link href="http://yoursite.com/2018/10/24/hello%E4%BD%BF%E7%94%A8%E8%BF%87%E7%A8%8B%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/"/>
     <id>http://yoursite.com/2018/10/24/hello使用过程中遇到的一些问题/</id>
     <published>2018-10-24T06:46:30.837Z</published>
-    <updated>2019-01-13T03:25:34.663Z</updated>
+    <updated>2019-03-03T13:57:07.609Z</updated>
     
-    <content type="html"><![CDATA[<p>在使用hexo过程中我踩了很多坑，为了防止以后再掉进去以及给其他人参考，我把遇到的问题都整理在了这篇文章中，可能解决方法并不是很好，仅限参考。</p><h2>1、HEXO deploy 后显示成功，本地预览没有问题，但远程网站未更新.</h2><p>我的解决方法是：</p><ol><li><p>先执行hexo clean，再执行hexo g，hexo d；</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean</span><br></pre></td></tr></table></figure><p>这个指令可以清除缓存文件 (<code>db.json</code>) 和已生成的静态文件 (<code>public</code>)。在某些情况，尤其是更换主题后，如果发现对站点的更改无论如何也不生效，可以试试运行这条命令。</p></li><li><p>耐心等待一段时间。因为有时候的延迟还挺严重的，很可能等一会儿刷新一下就好了。</p></li></ol><p>缓慢更新中…</p>]]></content>
+    <content type="html"><![CDATA[<p>在使用hexo过程中我踩了很多坑，为了防止以后再掉进去以及给其他人参考，我把遇到的问题都整理在了这篇文章中，可能解决方法并不是很好，仅限参考。</p><h2>1、HEXO deploy 后显示成功，本地预览没有问题，但远程网站未更新.</h2><p>我的解决方法是：</p><ol><li><p>先执行hexo clean，再执行hexo g，hexo d；</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean</span><br></pre></td></tr></table></figure><p>这个指令可以清除缓存文件 (<code>db.json</code>) 和已生成的静态文件 (<code>public</code>)。在某些情况，尤其是更换主题后，如果发现对站点的更改无论如何也不生效，可以试试运行这条命令。</p></li><li><p>耐心等待一段时间。因为有时候的延迟还挺严重的，很可能等一会儿刷新一下就好了。</p></li></ol><p>缓慢更新中。。。。。。</p>]]></content>
     
     <summary type="html">
     

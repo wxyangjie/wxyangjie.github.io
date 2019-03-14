@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-13T15:52:35.494Z</updated>
+  <updated>2019-03-12T08:56:48.264Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,96 +17,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>智慧课堂数据挖掘分析与应用实证研究</title>
-    <link href="http://yoursite.com/2019/01/13/%E6%99%BA%E6%85%A7%E8%AF%BE%E5%A0%82%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%88%86%E6%9E%90%E4%B8%8E%E5%BA%94%E7%94%A8%E5%AE%9E%E8%AF%81%E7%A0%94%E7%A9%B6/"/>
-    <id>http://yoursite.com/2019/01/13/智慧课堂数据挖掘分析与应用实证研究/</id>
-    <published>2019-01-13T15:29:57.669Z</published>
-    <updated>2019-01-13T15:52:35.494Z</updated>
+    <title>养宠圈APP设计总结</title>
+    <link href="http://yoursite.com/2019/03/03/%E5%85%BB%E5%AE%A0%E5%9C%88APP%E8%AE%BE%E8%AE%A1%E6%80%BB%E7%BB%93/"/>
+    <id>http://yoursite.com/2019/03/03/养宠圈APP设计总结/</id>
+    <published>2019-03-03T14:38:11.937Z</published>
+    <updated>2019-03-12T08:56:48.264Z</updated>
     
-    <content type="html"><![CDATA[<h3>智慧课堂数据挖掘分析与应用实证研究</h3><blockquote><p>刘邦奇,李鑫.智慧课堂数据挖掘分析与应用实证研究[J].电化教育研究,2018,39(06):41-47.</p></blockquote>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h3&gt;智慧课堂数据挖掘分析与应用实证研究&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;刘邦奇,李鑫.智慧课堂数据挖掘分析与应用实证研究[J].电化教育研究,2018,39(06):41-47.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-      
-    
-    </summary>
-    
-      <category term="notes" scheme="http://yoursite.com/categories/notes/"/>
-    
-    
-      <category term="论文阅读笔记" scheme="http://yoursite.com/tags/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/"/>
-    
-      <category term="COMPUTERS &amp; EDUCATION" scheme="http://yoursite.com/tags/COMPUTERS-EDUCATION/"/>
-    
-      <category term="技术接受模型" scheme="http://yoursite.com/tags/%E6%8A%80%E6%9C%AF%E6%8E%A5%E5%8F%97%E6%A8%A1%E5%9E%8B/"/>
-    
-      <category term="偏最小二乘回归" scheme="http://yoursite.com/tags/%E5%81%8F%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E5%9B%9E%E5%BD%92/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>A ubiquitous English vocabulary learning system</title>
-    <link href="http://yoursite.com/2019/01/10/A%20ubiquitous%20English%20vocabulary%20learning%20system/"/>
-    <id>http://yoursite.com/2019/01/10/A ubiquitous English vocabulary learning system/</id>
-    <published>2019-01-10T10:27:44.090Z</published>
-    <updated>2019-01-10T15:14:43.291Z</updated>
-    
-    <content type="html"><![CDATA[<h4>A ubiquitous English vocabulary learning system: Evidence of active/passive attitudes vs. usefulness/ease-of-use</h4><p>A ubiquitous English vocabulary learning system: Evidence of active/passive attitudes vs. usefulness/ease-of-use</p><p>作者: Huang, Yueh-Min; Huang, Yong-Ming; Huang, Shu-Hsien; 等.</p><p>COMPUTERS &amp; EDUCATION  卷: 58   期: 1   页: 273-282   出版年: JAN 2012</p><h3>内容整理</h3><h4>Abstract</h4><blockquote><p>“In this study, we develop a ubiquitous English vocabulary learning (UEVL) system to assist students in experiencing a systematic vocabulary learning process in which <strong>ubiquitous</strong> technology is used to develop the system, and video clips are used as the material. Afterward, the <strong>technology acceptance model</strong> and <strong>partial least squares approach</strong> are used to explore students’ perspectives on the UEVL system. &quot;</p></blockquote><h5>The results:</h5><blockquote><p>(1) both the system characteristics and the material characteristics of the UEVL system positively and significantly influence the perspectives of all students on the system;</p><p>(2) the active students are interested in perceived usefulness;</p><p>(3) the passive students are interested in perceived ease of use.</p></blockquote><table><thead><tr><th style="text-align:left">文中名词</th><th>翻译或解释</th></tr></thead><tbody><tr><td style="text-align:left">ubiquitous learning</td><td>泛在学习</td></tr><tr><td style="text-align:left">Technology Acceptance Model</td><td>技术接受模型，Fred D. Davis根据理性行为理论（Theory of Reasoned Action，简称TRA）在信息系统/计算机技术领域发展而来，用于解释和预测人们对信息技术的接受程度。技术接受模型主张,人对信息科技的使用受其行为意图的影响，用来探讨外部因素对使用者的内部信念（beliefs）、态度（attitudes）及意向（intentions）的影响，两者进而影响信息系统使用的情况（Davis, 1989）。该理论认为，当用户面对一个新的技术时，感知有用性和感知易用性是两个主要的决定因素。<a href="https://en.wikipedia.org/wiki/Technology_acceptance_model" target="_blank" rel="noopener">https://en.wikipedia.org/wiki/Technology_acceptance_model</a></td></tr><tr><td style="text-align:left">Partial least squares regression， PLS回归</td><td>偏最小二乘回归是一种统计学方法，与主成分回归有关系，但不是寻找响应和独立变量之间最小方差的超平面，而是通过投影预测变量和观测变量到一个新空间来寻找一个线性回归模型。</td></tr></tbody></table><h4>Introduction</h4><p>“Their results revealed that graphics are useful in assisting students to understand the definitions of new words.”</p><h3>To Do List:</h3><ul><li>[ ] 学习&amp;掌握偏最小二乘回归</li></ul><h3>写作技巧借鉴：</h3>]]></content>
+    <content type="html"><![CDATA[<p>养宠圈是我和另外两位小伙伴参加<a href="http://www.360.cn/hackaday/" target="_blank" rel="noopener">360Hackaday</a>时的作品，前期的产品灵感是一起讨论的结果，我在整个项目中负责产品需求文档的攥写、交互设计和视觉设计。</p><h2>版本说明</h2><p><img src="https://raw.githubusercontent.com/wxyangjie/Image/master/version.png" alt=""></p><p>以下文档的版本为V.02。</p><h2>需求分析</h2><p>近年来，宠物行业发展迅速，饲养宠物的人也越来越多，宠物在家庭中的地位越来越趋于“家庭成员”。但是，因为缺乏养宠经验，不少宠物会因为疾病、过度繁殖、性格古怪等原因为铲屎官们带来很多困扰。因此，学习如何科学的养宠，对于宠物和铲屎官自身来说都很有帮助。</p><p>我们前期对几名铲屎官（因为条件限制，仅有几名初入职场的新人）进行了的简单的访谈，主要围绕以下几个问题进行了询问：</p><blockquote><ol><li>你平时是否有关注科学养宠的资讯？</li><li>无论你之前有没有了解过科学养宠，你是否愿意进一步学习如何养好你的宠物呢？</li><li>你如果已经关注科学养宠了，是从什么渠道获取的知识呢？</li></ol></blockquote><p>通过访谈，我们了解到：尽管他们刚加入铲屎官的队伍，但是他们都愿意花费精力去学习如何养好宠物，目前他们获取养宠资讯的来源主要为公众号、知乎、微博和朋友之间相互转达。这些方式没有较强的垂直性，可能会花费他们很多时间去寻找自己想要知道的知识。</p><h4>产品定位</h4><p>养宠圈是一款可以帮助用户获取和分享养宠知识，并且提供公益活动平台的产品。</p><h4>目标用户</h4><p>养宠圈的目标用户分为两部分</p><p>1）“进修者”：刚开始养宠物，或者养宠知识比较匮乏，但是乐于学习如何科学养宠。</p><blockquote><p>​     90后、00后为主，多为初入铲屎官群体的新人。</p></blockquote><p>2）“分享者”：对于科学养宠有自己独到的见解，并且乐于分享自己的养宠经验。</p><blockquote><p>​     80后、90后为主；多数为在职白领；一二线城市居多。</p></blockquote><h4>用户场景</h4><p>•养宠圈可以在用户的碎片时间里，帮助用户获取专业的养宠知识。</p><p>用户的使用地点可能是地铁上或者家里，因此，对于浏览信息/视频等功能的设计需要考虑到单手操作。</p><p>•养宠圈可以帮助用户在想要获得宠物时，领养到健康的流浪动物或他人赠养，并且给用户提供参加动物公益志愿活动的途径。</p><p>某些用户希望能领养到健康的宠物，还有部分用户希望将自己家过多的小宠物有偿或无偿的赠送出去。</p><p>•养宠圈可以在用户想要分享养宠知识时，提供发布内容的平台。</p><p>为用户提供自媒体平台，通过广告、打赏和激励等形式为这部分用户带来收入。</p><h4>核心功能</h4><p>①养宠圈拥有严谨、优质的内容，对用户的投稿会进行严格筛选，确保用户获取可靠的养宠知识。</p><p>②养宠圈与宠物公益机构进行合作，为用户提供可靠的公益活动。</p><h4>竞品优势</h4><p>1）内容的专业性</p><p>养宠圈的内容大部分来源于专业人士，对于普通用户的投稿也会有严格的标准把控。</p><p>2）内容杂质少，垂直性强</p><p>用户在养宠圈中寻找养宠知识花的时间较少，更容易找到自己需要的优质内容。</p><p>2）提供公益服务的平台</p><p>用户可以在养宠圈上找到靠谱的公益活动、领养途径等。</p><h2>产品设计</h2><h4>设计目标</h4><p>兼顾内容浏览者和发布者</p><h4>设计关键点</h4><h4>产品结构</h4><h4>纸面原型</h4><h4>部分界面展示</h4>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h4&gt;A ubiquitous English vocabulary learning system: Evidence of active/passive attitudes vs. usefulness/ease-of-use&lt;/h4&gt;
-&lt;p&gt;A ubiquitous En
+        &lt;p&gt;养宠圈是我和另外两位小伙伴参加&lt;a href=&quot;http://www.360.cn/hackaday/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;360Hackaday&lt;/a&gt;时的作品，前期的产品灵感是一起讨论的结果，我在整个项目中负责产品需求文档的攥
       
     
     </summary>
     
-      <category term="notes" scheme="http://yoursite.com/categories/notes/"/>
+      <category term="Projects" scheme="http://yoursite.com/categories/Projects/"/>
     
     
-      <category term="论文阅读笔记" scheme="http://yoursite.com/tags/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/"/>
-    
-      <category term="COMPUTERS &amp; EDUCATION" scheme="http://yoursite.com/tags/COMPUTERS-EDUCATION/"/>
-    
-      <category term="技术接受模型" scheme="http://yoursite.com/tags/%E6%8A%80%E6%9C%AF%E6%8E%A5%E5%8F%97%E6%A8%A1%E5%9E%8B/"/>
-    
-      <category term="偏最小二乘回归" scheme="http://yoursite.com/tags/%E5%81%8F%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E5%9B%9E%E5%BD%92/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hello使用过程中遇到的一些问题</title>
-    <link href="http://yoursite.com/2018/10/24/hello%E4%BD%BF%E7%94%A8%E8%BF%87%E7%A8%8B%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/"/>
-    <id>http://yoursite.com/2018/10/24/hello使用过程中遇到的一些问题/</id>
-    <published>2018-10-24T06:46:30.837Z</published>
-    <updated>2019-03-03T13:57:07.609Z</updated>
-    
-    <content type="html"><![CDATA[<p>在使用hexo过程中我踩了很多坑，为了防止以后再掉进去以及给其他人参考，我把遇到的问题都整理在了这篇文章中，可能解决方法并不是很好，仅限参考。</p><h2>1、HEXO deploy 后显示成功，本地预览没有问题，但远程网站未更新.</h2><p>我的解决方法是：</p><ol><li><p>先执行hexo clean，再执行hexo g，hexo d；</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean</span><br></pre></td></tr></table></figure><p>这个指令可以清除缓存文件 (<code>db.json</code>) 和已生成的静态文件 (<code>public</code>)。在某些情况，尤其是更换主题后，如果发现对站点的更改无论如何也不生效，可以试试运行这条命令。</p></li><li><p>耐心等待一段时间。因为有时候的延迟还挺严重的，很可能等一会儿刷新一下就好了。</p></li></ol><p>缓慢更新中。。。。。。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;在使用hexo过程中我踩了很多坑，为了防止以后再掉进去以及给其他人参考，我把遇到的问题都整理在了这篇文章中，可能解决方法并不是很好，仅限参考。&lt;/p&gt;
-&lt;h2&gt;1、HEXO deploy 后显示成功，本地预览没有问题，但远程网站未更新.&lt;/h2&gt;
-&lt;p&gt;我的解决方法是：&lt;/
-      
-    
-    </summary>
-    
-      <category term="notes" scheme="http://yoursite.com/categories/notes/"/>
-    
-    
-      <category term="博客搭建" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+      <category term="产品" scheme="http://yoursite.com/tags/%E4%BA%A7%E5%93%81/"/>
     
   </entry>
   

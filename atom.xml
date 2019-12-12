@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-12-01T12:01:06.127Z</updated>
+  <updated>2019-12-12T13:29:47.868Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>作品合集</title>
+    <link href="http://yoursite.com/2019/12/12/mywork/"/>
+    <id>http://yoursite.com/2019/12/12/mywork/</id>
+    <published>2019-12-12T13:24:55.771Z</published>
+    <updated>2019-12-12T13:29:47.868Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/wxyangjie/Image/master/work1.png" alt=""></p><p><img src="https://raw.githubusercontent.com/wxyangjie/Image/master/work2.png" alt=""></p><p><img src="https://raw.githubusercontent.com/wxyangjie/Image/master/work3.png" alt=""></p><p><img src="https://raw.githubusercontent.com/wxyangjie/Image/master/work4.png" alt=""></p><p><img src="https://raw.githubusercontent.com/wxyangjie/Image/master/work5.png" alt=""></p><p><img src="https://raw.githubusercontent.com/wxyangjie/Image/master/work6.png" alt=""></p><p><img src="https://raw.githubusercontent.com/wxyangjie/Image/master/work7.png" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/wxyangjie/Image/master/work1.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/
+      
+    
+    </summary>
+    
+      <category term="Projects" scheme="http://yoursite.com/categories/Projects/"/>
+    
+    
+      <category term="mywork" scheme="http://yoursite.com/tags/mywork/"/>
+    
+  </entry>
+  
+  <entry>
     <title>E组任务</title>
     <link href="http://yoursite.com/2019/11/30/Task_E/"/>
     <id>http://yoursite.com/2019/11/30/Task_E/</id>
     <published>2019-11-30T06:09:48.378Z</published>
-    <updated>2019-12-01T12:01:06.127Z</updated>
+    <updated>2019-12-12T13:24:48.394Z</updated>
     
     <content type="html"><![CDATA[<h1>E组</h1><h3>一、多径效应：</h3><p>A、观看教学视频：</p><iframe height="498" width="510" src="https://v.qq.com/txp/iframe/player.html?vid=f3028y4kv02" scrolling="no" frameborder="no" allowfullscreen> </iframe><p>B、完成学习任务：</p><p>1、探索AR模型。（接收天线在小车内，红线为虚拟的电波）</p><p>设备要求：大部分Android，IOS，PC（带摄像头）均可体验，推荐使用Safari/Chrome/Firefox浏览器。</p><p>问题反馈邮箱：yangjie_3013@163.com。</p><p>第一步：用手机<strong>浏览器</strong>打开<a href="https://wxyangjie.github.io/A-Frame_WebAR/index.html" target="_blank" rel="noopener">AR课件资源</a>网站（或用<strong>浏览器</strong>扫描下方二维码，注意<strong>不要使用</strong>微信或者支付宝）；</p><p><img src="https://raw.githubusercontent.com/wxyangjie/Image/master/20190519225116.png" alt=""></p><p>第二步：选择<strong>多径效应</strong>对应的课件。</p><p>第三步：启用摄像头后，对准下方标签图片。完成！</p><p><img src="https://raw.githubusercontent.com/wxyangjie/Image/master/20190519225847.png" alt=""></p><p>2、思考（不计分）：</p><ul><li><p>到达接收天线的电波的传播路径都有哪些形式？</p></li><li><p>[ ] 直射、反射和散射。</p></li><li><p>它们会在接收天线处产生什么影响？</p></li><li><p>[ ] 在接收天线处产生相互干扰，使接收天线所接收到的场强矢量、振幅和相位随时间急剧变化，这使信号很不稳定。</p></li></ul><hr><h3>二、多普勒效应：</h3><p>A、观看教学视频：</p><iframe height="498" width="510" src="https://v.qq.com/txp/iframe/player.html?vid=b3028rz34o1" scrolling="no" frameborder="no" allowfullscreen> </iframe><p>B、完成学习任务：</p><p>1、探索AR模型。注意小车喇叭声音的频率变化，接收天线在小车内。体验方法同上。</p><p>2、思考（不计分）：</p><ul><li>你听到的音调的高低有何变化？<ul><li>[ ] 靠近时频率变高，远离时频率变低。</li></ul></li><li>信号传播频率的变化程度与运动速度有何关系？<ul><li>[ ] 成正比。</li></ul></li></ul><hr><h3>三、小测试：</h3><p>测试包含了3道单选题、3道多选题和8道判断题，再次感谢您的参与：</p><p>打开链接<a href="https://ks.wjx.top/jq/48307938.aspx" target="_blank" rel="noopener">https://ks.wjx.top/jq/48307938.aspx</a>进行作答。</p><h3>四、问卷：</h3><p>问卷一共包含31道题。</p><p>打开链接<a href="https://wj.qq.com/s2/4550788/5e72/" target="_blank" rel="noopener">https://wj.qq.com/s2/4550788/5e72/</a>作答。</p><p>结束。</p><p>再次感谢您的参与！</p>]]></content>
     
@@ -37,7 +63,7 @@
     
     </summary>
     
-      <category term="Projects" scheme="http://yoursite.com/categories/Projects/"/>
+      <category term="Other" scheme="http://yoursite.com/categories/Other/"/>
     
     
       <category term="实验" scheme="http://yoursite.com/tags/%E5%AE%9E%E9%AA%8C/"/>
@@ -49,7 +75,7 @@
     <link href="http://yoursite.com/2019/11/20/Task_C/"/>
     <id>http://yoursite.com/2019/11/20/Task_C/</id>
     <published>2019-11-20T02:11:11.791Z</published>
-    <updated>2019-12-01T13:14:01.011Z</updated>
+    <updated>2019-12-12T13:24:31.605Z</updated>
     
     <content type="html"><![CDATA[<h1>C组</h1><h3>一、多径效应：</h3><p>A、观看教学视频：</p><iframe height="498" width="510" src="https://v.qq.com/txp/iframe/player.html?vid=f3028y4kv02" scrolling="no" frameborder="no" allowfullscreen> </iframe><p>B、完成学习任务：</p><p>1、观看动画。（接收天线在小车内，红线为虚拟的电波）</p><iframe height="498" width="510" src="https://v.qq.com/txp/iframe/player.html?vid=d3028877aso" scrolling="no" frameborder="no" allowfullscreen> </iframe><p>2、思考（不计分）：</p><ul><li><p>到达接收天线的电波的传播路径都有哪些形式？</p></li><li><p>[ ] 直射、反射和散射。</p></li><li><p>它们会在接收天线处产生什么影响？</p></li><li><p>[ ] 在接收天线处产生相互干扰，使接收天线所接收到的场强矢量、振幅和相位随时间急剧变化，这使信号很不稳定。</p></li></ul><hr><h3>二、多普勒效应：</h3><p>A、观看教学视频：</p><iframe height="498" width="510" src="https://v.qq.com/txp/iframe/player.html?vid=b3028rz34o1" scrolling="no" frameborder="no" allowfullscreen> </iframe><p>B、完成学习任务：</p><p>1、观看动画，注意小车喇叭声音的频率变化，接收天线在小车内。</p><iframe height="498" width="510" src="https://v.qq.com/txp/iframe/player.html?vid=w3028d9ie95" scrolling="no" frameborder="no" allowfullscreen> </iframe><p>2、思考（不计分）：</p><ul><li>你听到的音调的高低有何变化？<ul><li>[ ] 靠近时频率变高，远离时频率变低。</li></ul></li><li>信号传播频率的变化程度与运动速度有何关系？<ul><li>[ ] 成正比。</li></ul></li></ul><hr><h3>三、小测试：</h3><p>测试包含了3道单选题、3道多选题和8道判断题，再次感谢您的参与：</p><p>打开链接<a href="https://ks.wjx.top/jq/48307938.aspx" target="_blank" rel="noopener">https://ks.wjx.top/jq/48307938.aspx</a>进行作答。</p><h3>四、问卷：</h3><p>问卷一共包含31道题。</p><p>打开链接<a href="https://wj.qq.com/s2/4550788/5e72/" target="_blank" rel="noopener">https://wj.qq.com/s2/4550788/5e72/</a>作答。</p><p>结束。</p><p>再次感谢您的参与！</p>]]></content>
     
@@ -65,7 +91,7 @@
     
     </summary>
     
-      <category term="Projects" scheme="http://yoursite.com/categories/Projects/"/>
+      <category term="Other" scheme="http://yoursite.com/categories/Other/"/>
     
     
       <category term="实验" scheme="http://yoursite.com/tags/%E5%AE%9E%E9%AA%8C/"/>
